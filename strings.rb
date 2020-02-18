@@ -42,3 +42,12 @@ puts phrase.include? "last"
 # asking the include method if the phrase includes the string added
 # which will result in false 
 
+phrase = "first lane"
+puts phrase[2]
+# the index of the character that you want to access
+# index always starts with 0
+
+phrase = "first lane"
+puts phrase.index("f")
+# gives you the index of that specific character
+

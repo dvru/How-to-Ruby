@@ -1,6 +1,7 @@
 # How-to-Ruby
 
-<!-- Basic Practice for Ruby -->
+Basic Overview for Ruby
+
 - Variable-
 - Data Types
 - Working With Strings
