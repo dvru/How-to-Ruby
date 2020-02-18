@@ -13,7 +13,6 @@ Hashes
 Methods
 Return Statement
 If Statements
-If Statements (continued)
 Building a Better Calculator
 Case Expressions
 While Loops
