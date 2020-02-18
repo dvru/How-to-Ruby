@@ -1,8 +1,8 @@
 # How-to-Ruby
 
 <!-- Basic Practice for Ruby -->
-Variables
-Data Types
+- Variable-
+- Data Types
 Working With Strings
 Math & Numbers
 Getting User Input
