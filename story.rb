@@ -1,5 +1,5 @@
-character_name = "John"
-character_age = "35"
+character_name = "Bob"
+character_age = "40"
 # variables which have stored values
 
 puts ("There once was a man name " + character_name)
