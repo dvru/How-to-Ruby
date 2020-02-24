@@ -30,7 +30,7 @@ if isfemale and issmall
 elsif isfemale and !issmall
     puts "You are a tall female"
 elsif !isfemale and issmall
-    puts " You are not female and are small"
+    puts "You are not female and are small"
 else 
     puts "You are not female" #false
 end
@@ -47,3 +47,20 @@ end
 # using comparisons in if statements
 # you can use a comparison to get a true/false value
 
+# method max take 3 params and return whichever is largest
+def max(num1, num2, num3)
+    if num1 >= num2 and num1 >= num3 # boolean value: if num1 is greater than or equal to num2 and num1 is greater than or equal to num3
+        return num1
+    elsif num2 >= num1 and num2 >= num3
+        return num2
+    else 
+        return num3
+    end
+end
+
+puts max(1, 20, 3)
+
+# >= <= is a comparison operator
+# == is equal to
+# != is not equal to
+# 
