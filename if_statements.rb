@@ -41,3 +41,9 @@ end
 
 # ! before anything, to show its not something, 
 # the negation operator
+
+# -------------------------------------------
+
+# using comparisons in if statements
+# you can use a comparison to get a true/false value
+
