@@ -1,0 +1,7 @@
+Blue, Box
+Red, Door
+Pink, Couch
+Yellow, Car
+Green, Hat
+
+text file

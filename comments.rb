@@ -6,3 +6,4 @@
 puts "Comments are fun" # Comment
 
 # puts "Comments are fun" comments out code to temp disable code
+# comments can be distracting
