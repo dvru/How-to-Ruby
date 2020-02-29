@@ -1,7 +1,8 @@
-Blue, Box
-Red, Door
+BHie, Box
+Hirider
 Pink, Couch
 Yellow, Car
 Green, Hat
 
 text file
+White, Sky
